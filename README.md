@@ -19,8 +19,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### ✍️ Blogs
-[![Medium](https://github-medium-sync.vercel.app/api?username=tharinducs&limit=4)](https://medium.com/@tharinducs)
-
+<iframe src="https://github-medium-sync.vercel.app/api?username=tharinducs&limit=4"
+        title="Latest Medium blog posts"
+        width="100%"
+        height="300px"
+        frameborder="0"
+        scrolling="no">
+</iframe>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tharinducs7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
