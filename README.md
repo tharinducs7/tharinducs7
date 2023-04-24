@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### ✍️ Blogs
-https://github-medium-sync.vercel.app/?username=tharinducs&limit=4
+[![Medium](https://github-medium-sync.vercel.app/api?username=tharinducs&limit=4)](https://medium.com/@tharinducs)
 
 
 ### 🔝 Top Contributed Repo
