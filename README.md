@@ -19,7 +19,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### ✍️ Blogs
-![](https://github-medium-sync.vercel.app/?username=tharinducs&limit=4)
+![](https://github-medium-sync.vercel.app/?username=tharinducs&limit=4) ![](https://github-medium-sync.vercel.app/?username=tharinducs&limit=0)
+![](https://github-medium-sync.vercel.app/?username=tharinducs&limit=1) ![](https://github-medium-sync.vercel.app/?username=tharinducs&limit=3)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tharinducs7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
