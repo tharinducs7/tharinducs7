@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### ✍️ Blogs
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@<username>/<articleNumber>"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tharinducs/0" alt="Recent article #1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tharinducs/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tharinducs/0" alt="Recent article #1"></a>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tharinducs7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
